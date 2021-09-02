@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieDonut3DChart", "PieDonut3DChart.csproj", "{8890D358-E56C-429D-97DA-0AD5AFB8B54C}"
 EndProject
 Global
