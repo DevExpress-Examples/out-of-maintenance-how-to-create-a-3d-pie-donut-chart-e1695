@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PieDonut3DChart", "PieDonut3DChart.vbproj", "{8890D358-E56C-429D-97DA-0AD5AFB8B54C}"
 EndProject
